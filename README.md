@@ -1,7 +1,8 @@
 ![MasterHead](https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966)
-<h1 align="center">Hi 👋, I'm Akshay Shirbhate</h1>
+<h1 align="center">Hey there😃🖐️, I'm Akshay Shirbhate</h1>
 <h3 align="center">An aspiring Data Analyst from India</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
 - 🌱 I’m currently learning **SQL & Python**
 
 - 👯 I’m looking to collaborate on **Data Analysis or Power BI Projects**
